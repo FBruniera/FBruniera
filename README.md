@@ -1,7 +1,10 @@
 ### Olá! Seja bem vindo! 📚
 
+Esse site é sobre o **NRE Cornélio Procópio**, e é tarefa integrante do curso Embaixadores em Ação.
+
 Algumas curiosidades sobre mim:
 
+- 👨 Olá! Sou Flávio Bruniera.
 - 🔭 Eu trabalho atualmente no Núcleo Regional da Educação em Cornélio Procópio.
 - 👨‍💼 Atualmente, sou assessor pedagógico, responsável pelo Programa Edutech (Embaixador), Robótica (ADM) e Comunicação.
 - 👯 Busco aprender mais sempre, para poder colaborar com os professores dos componentes do programa.
