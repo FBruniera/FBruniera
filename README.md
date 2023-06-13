@@ -9,4 +9,4 @@ Algumas curiosidades sobre mim:
 - [📷@fbruniera](https://www.instagram.com/fbruniera/) | [🐦@flabruniera](https://twitter.com/flabruniera) | [📬flavio.bruniera@escola.pr.gov.br](flavio.bruniera@escola.pr.gov.br)
 ##### ![](https://media.tenor.com/zuGJiqsnkPIAAAAC/eevee-pikachu.gif)
 
-![](https://media.tenor.com/zuGJiqsnkPIAAAAC/eevee-pikachu.gif)
+![](octocat-1686682712513.png)
