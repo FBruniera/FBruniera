@@ -2,11 +2,3 @@ header {
     background-color: #00C4A0;
     color: white;
 }
-
-.cabecalho{
-    display: flex;
-}
-img {
-    width: 10%;
-    height: 10%;
-}
