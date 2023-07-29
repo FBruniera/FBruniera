@@ -13,8 +13,3 @@ Algumas curiosidades sobre mim:
 ##### ![](https://media.tenor.com/zuGJiqsnkPIAAAAC/eevee-pikachu.gif)
 
 ![](octocat-1686682712513.png)
-
-ICONS
-<a href="https://www.flaticon.com/free-icons/github" title="github icons">Github icons created by Freepik - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/instagram" title="instagram icons">Instagram icons created by Freepik - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/youtube" title="youtube icons">Youtube icons created by Freepik - Flaticon</a>

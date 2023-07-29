@@ -62,3 +62,35 @@ body {
 .texto1{
     padding: 0 0 20px;
 }
+
+.foto_embaixa{
+    width: 100px;
+}
+
+.icone{
+    width: 24px;
+}
+
+.grupo_embaixa{
+    text-align: center;
+    justify-content: space-around;
+}
+
+.setores{
+    justify-content: space-around;
+}
+
+.setores_titulo{
+    text-align: center;
+    padding: 40px 0;
+}
+
+.todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+}
+
+.rodape{
+    text-align: center;
+    padding: 40px 0;
+}
