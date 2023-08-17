@@ -7,13 +7,14 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-a{
+a {
     color:#FFFFFF;
     text-decoration: none;
 }
 
-a:hover{
+a:hover {
     color:aquamarine;
+    text-decoration: none;
 }
 
 .cabecalho {
